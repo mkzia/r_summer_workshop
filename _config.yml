@@ -1,0 +1,21 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Eric Pitman Summer Workshop in Computational Science
+author: Mohammad Zia
+logo: ub.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: false
+  use_repository_button: false
+  navbar_number_sections: true  
+  home_page_in_navbar: false

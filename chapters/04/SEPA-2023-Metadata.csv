@@ -1,0 +1,73 @@
+﻿Location,Metadata,Value,Unit
+Sherry Pond,GPS,"43.23994, -77.57156",coordinate
+Sherry Pond,Date,9/20/22,Date
+Sherry Pond,Air Temperature,18,Celcius
+Sherry Pond,Water Temperature,18,Celcius
+Sherry Pond,pH,8,pH
+Sherry Pond,Nitrites,0 JTU,ppm
+Sherry Pond,Nitrates,0,ppm
+Sherry Pond,Chlorine,0,ppm
+Sherry Pond,Alkalinity,40,ppm
+Sherry Pond,Hardness,180,(GH) ppm
+Sherry Pond,Source,BOCES,School
+Conesus Creek,GPS,"42.90319, -77.76866",coordinate
+Conesus Creek,Date,9/23/22,Date
+Conesus Creek,Air Temperature,15.5,Celcius
+Conesus Creek,Water Temperature,15.5,Celcius
+Conesus Creek,pH,8,pH
+Conesus Creek,Phosphate,1,ppm
+Conesus Creek,Nitrates,5,ppm
+Conesus Creek,Dissolved Oxygen,4,ppm
+Conesus Creek,Turbidity,0,JTU
+Conesus Creek,Coliform,Negative,Test
+Conesus Creek,Source,Avon High School,School
+Eighteen Mile Creek,GPS,"42.69435, -78.9334",coordinate
+Eighteen Mile Creek,Date,10/8/22,Date
+Eighteen Mile Creek,Sampling Depth,38,centimeter
+Eighteen Mile Creek,Water Temperature,9,Celcius
+Eighteen Mile Creek,Air Temperature,8,Celcius
+Eighteen Mile Creek,pH,7.2,pH
+Eighteen Mile Creek,Nitrites,0,ppm
+Eighteen Mile Creek,Nitrates,0,ppm
+Eighteen Mile Creek,Chlorine,0,ppm
+Eighteen Mile Creek,Alkalinity,100,(KH) ppm
+Eighteen Mile Creek,Hardness,150,(GH) ppm
+Eighteen Mile Creek,Source,Eden High School,School
+Cazenovia Creek,GPS,"42.8297, -78.77566",coordinate
+Cazenovia Creek,Date,10/8/22,Date
+Cazenovia Creek,Sampling Depth,15,centimeter
+Cazenovia Creek,Water Temperature,12.7,Celcius
+Cazenovia Creek,Air Temperature,12.7,Celcius
+Cazenovia Creek,pH,8,pH
+Cazenovia Creek,Nitrites,0,ppm
+Cazenovia Creek,Nitrates,0,ppm
+Cazenovia Creek,Chlorine,0,ppm
+Cazenovia Creek,Alkalinity,120,(KH) ppm
+Cazenovia Creek,Hardness,225,(GH) ppm
+Cazenovia Creek,Source,West Seneca West,School
+Scajaquada Creek,GPS,"42.92384, -78.85688",coordinate
+Scajaquada Creek,pH,8.4,pH
+Scajaquada Creek,Nitrites,0,ppm
+Scajaquada Creek,Nitrates,10,ppm
+Scajaquada Creek,Chlorine,0,ppm
+Scajaquada Creek,Alkalinity,180,(KH) ppm
+Scajaquada Creek,Hardness,300,(GH) ppm
+Scajaquada Creek,Date,11/4/22,Date
+Scajaquada Creek,Water Temperature,14.4,Celcius
+Scajaquada Creek,Air Temperature,23.3,Celcius
+Scajaquada Creek,Source,Buffalo Public Schools,School
+Gill Creek,Source,Niagara Falls High ,School
+Gill Creek,GPS,"43.10696, -79.02127",coordinate
+Gill Creek,pH,8.04,pH
+Gill Creek,Nirates,0,ppm
+Gill Creek,Nitrites,0,ppm
+Gill Creek,Alkalinity,8.4,
+Gill Creek,Hardness,150,GH ppm
+Gill Creek,Dissolved Oxygen,10,mg/L
+Gill Creek,Turbidity,13.2,ntu
+Gill Creek,Phosphorus,0.5,mg/L
+Smoke Creek,Source,Lackawanna,School
+Smoke Creek,GPS,"42.82244, -78.80241",coordinate
+Smoke Creek,Air Temperature,6.5,
+Smoke Creek,Water Temperature,6.67,
+Smoke Creek,Phosphorus,0.25,mg/L

@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options: 
+  numbered: True
+chapters:
+- file: chapters/01/intro
+  sections:
+  - file: chapters/01/getting_started
+  - file: chapters/01/arithmetic
+  - file: chapters/01/data_types
+  - file: chapters/01/operator_precedence
+  - file: chapters/01/variables
+  - file: chapters/01/commenting
+- file: chapters/02/intro
+  sections:
+  - file: chapters/02/functions
+- file: chapters/03/intro
+  sections:
+  - file: chapters/03/boolean
+  - file: chapters/03/logical
+  - file: chapters/03/making_a_choice
+- file: chapters/04/intro
+  sections:
+  - file: chapters/04/vectors
+  - file: chapters/04/data_frames
