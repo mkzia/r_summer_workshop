@@ -11,7 +11,7 @@
 | -           | Subtraction       | 5 - 19       | -14         |
 | *           | Multiplication    | 8.5 * 4      | 34.0        |
 | /           | Division          | 11 / 2       | 5.5         |
-| //          | Integer Division  | 16 %/% 5     | 3           |
+| %/%          | Integer Division  | 16 %/% 5     | 3           |
 | %           | Modulus/Remainder | 31 % 24      | 7           |
 | **          | Exponentiation    | 2 ** 5       | 32          |
 ```
