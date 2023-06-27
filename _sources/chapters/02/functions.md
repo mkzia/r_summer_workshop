@@ -13,7 +13,7 @@ What are the advantages of using functions?
 
 The general form of a function call is as follows:
 
-```
+```r
 <<function_name>> = function(<<parameters>>) {
     body
 }
