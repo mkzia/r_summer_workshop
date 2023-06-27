@@ -3,9 +3,9 @@
 ```r
 if (some condition is TRUE) {
     do something
-} else (if some other condition is TRUE) {
+} else if (if some other condition is TRUE) {
     do something
-} else (if some other condition is TRUE) {
+} else if (if some other condition is TRUE) {
     do something
 }
 else {
